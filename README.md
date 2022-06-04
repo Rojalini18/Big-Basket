@@ -39,7 +39,7 @@ Big Basket is one of the largest online grocery delivery service in India. Big B
 - [@callmeabhi1997](https://github.com/callmeabhi1997)
 - [@iYogeshKumar](https://github.com/iYogeshkumar)
 - [@abinashpanigrahi](https://github.com/abinashpanigrahi)
-- [@RojaliniDas](https://github.com/RojaliniDas)
+- [@Rojalini18](https://github.com/Rojalini18)
 - [@SamratB963](https://github.com/SamratB963)
 - [@mush1998](https://github.com/mush1998)
 
